@@ -1,1 +1,1 @@
-merge branch test from 6
+merge branch test from 6 and 7
